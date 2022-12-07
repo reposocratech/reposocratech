@@ -9,7 +9,7 @@
 </head>
 <body>
     <h3>Hi, we are SocraTech 👋😉</h3>
-    <img src="https://user-images.githubusercontent.com/87479242/126135376-de0a680a-cc0e-475a-8c95-e2cdeedfdd3a.png" alt="" width="100%">
+    <img src="https://user-images.githubusercontent.com/87479242/206247313-27356947-69bf-4dda-af17-6e95b4898f29.png" alt="" width="100%">
     <p>Somos SocraTech, la 🏫 escuela de nuevas tecnologías donde tenemos como principal objetivo acercar la informática 💻 a las personas de forma clara y simple.
         Somos conscientes de lo compleja 😫 que resulta inicialmente la programación, con todos los conceptos y siglas tan opacos que usamos 🈯.
         Queremos ayudarte a dar los primeros pasos 🚶‍♂️, tenemos amplia experiencia formado 👨‍🏫 a programadores sin conocimiento previo o con conocimientos básicos 🤝.
