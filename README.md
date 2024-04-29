@@ -34,15 +34,6 @@
   <a href="https://www.youtube.com/channel/UCP0nrDXWANd_H7WkGlrWJcg" rel="nofollow">
             <img src="https://user-images.githubusercontent.com/87479242/126154734-218fdb68-30e1-4857-8953-a4dc7089994a.png" style="max-width:100%;">
         </a>
-  <a href="https://www.twitch.tv/socratech" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/87479242/126155073-cb068f82-8c9c-440b-a296-cb30c2929423.png" style="max-width:100%;">
-        </a>
-    <a href="https://socratech.eventbrite.es" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/87479242/126156185-c9012162-2eec-4c95-b5e9-84148f5e8617.png" style="max-width:100%;">
-        </a>
-  <a href="https://open.spotify.com/user/1q864u0qfylzrllch0rzwgmyv?si=50a3f7af449b4872" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/87479242/126156571-a3a6d763-f7b0-4e95-9e53-683e09faebd6.png" style="max-width:100%;">
-        </a>
   
    <h3>We work with 👨‍💻</h3>
   <p>
